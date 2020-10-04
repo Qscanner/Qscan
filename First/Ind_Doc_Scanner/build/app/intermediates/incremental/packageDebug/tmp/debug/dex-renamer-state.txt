@@ -1,0 +1,4 @@
+#Sat Sep 12 14:33:15 IST 2020
+base.0=/Users/manivannant/Documents/Android_App_Development/First/Ind_Doc_Scanner/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

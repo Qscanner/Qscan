@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ea90901-4d74-4743-b19a-39be65223740" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hHggWRk80We0vrtGP1fO9FdRJL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ea90901-4d74-4743-b19a-39be65223740" name="Default Changelist" comment="" />
+      <created>1599673544573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599673544573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="228" y="200" key="#PSD" timestamp="1599673607364">
+      <screen x="0" y="23" width="1406" height="877" />
+    </state>
+    <state x="228" y="200" key="#PSD/0.23.1406.877@0.23.1406.877" timestamp="1599673607364" />
+    <state x="443" y="305" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1599673875478">
+      <screen x="0" y="23" width="1406" height="877" />
+    </state>
+    <state x="443" y="305" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1406.877@0.23.1406.877" timestamp="1599673875478" />
+    <state width="1344" height="175" key="GridCell.Tab.0.bottom" timestamp="1599674081492">
+      <screen x="0" y="23" width="1406" height="877" />
+    </state>
+    <state width="1344" height="175" key="GridCell.Tab.0.bottom/0.23.1406.877@0.23.1406.877" timestamp="1599674081492" />
+    <state width="1344" height="175" key="GridCell.Tab.0.center" timestamp="1599674081491">
+      <screen x="0" y="23" width="1406" height="877" />
+    </state>
+    <state width="1344" height="175" key="GridCell.Tab.0.center/0.23.1406.877@0.23.1406.877" timestamp="1599674081491" />
+    <state width="1344" height="175" key="GridCell.Tab.0.left" timestamp="1599674081488">
+      <screen x="0" y="23" width="1406" height="877" />
+    </state>
+    <state width="1344" height="175" key="GridCell.Tab.0.left/0.23.1406.877@0.23.1406.877" timestamp="1599674081488" />
+    <state width="1344" height="175" key="GridCell.Tab.0.right" timestamp="1599674081491">
+      <screen x="0" y="23" width="1406" height="877" />
+    </state>
+    <state width="1344" height="175" key="GridCell.Tab.0.right/0.23.1406.877@0.23.1406.877" timestamp="1599674081491" />
+    <state x="204" y="100" key="SettingsEditor" timestamp="1599674453904">
+      <screen x="0" y="23" width="1406" height="877" />
+    </state>
+    <state x="204" y="100" key="SettingsEditor/0.23.1406.877@0.23.1406.877" timestamp="1599674453904" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1599674022640">
+      <screen x="0" y="23" width="1406" height="877" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1406.877@0.23.1406.877" timestamp="1599674022640" />
+  </component>
+</project>
