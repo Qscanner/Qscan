@@ -1,4 +1,4 @@
-#Sun Sep 20 19:01:18 IST 2020
+#Sat Oct 10 14:39:45 IST 2020
 path.1=classes.dex
 path.0=classes.dex
 renamed.5=classes6.dex
@@ -7,12 +7,12 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.5=/Users/manivannant/Documents/Android_App_Development/First/QuickScan/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_3.dex
-base.4=/Users/manivannant/Documents/Android_App_Development/First/QuickScan/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_2.dex
-base.3=/Users/manivannant/Documents/Android_App_Development/First/QuickScan/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_1.dex
-base.2=/Users/manivannant/Documents/Android_App_Development/First/QuickScan/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_0.dex
-base.1=/Users/manivannant/Documents/Android_App_Development/First/QuickScan/build/app/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
-base.0=/Users/manivannant/Documents/Android_App_Development/First/QuickScan/build/app/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+base.5=/Users/manivannant/Documents/Android_App_Development/QuickScan/Qscan/First/QuickScan/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_3.dex
+base.4=/Users/manivannant/Documents/Android_App_Development/QuickScan/Qscan/First/QuickScan/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_2.dex
+base.3=/Users/manivannant/Documents/Android_App_Development/QuickScan/Qscan/First/QuickScan/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_1.dex
+base.2=/Users/manivannant/Documents/Android_App_Development/QuickScan/Qscan/First/QuickScan/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_0.dex
+base.1=/Users/manivannant/Documents/Android_App_Development/QuickScan/Qscan/First/QuickScan/build/app/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.0=/Users/manivannant/Documents/Android_App_Development/QuickScan/Qscan/First/QuickScan/build/app/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
 path.5=classes_3.dex
 path.4=classes_2.dex
 path.3=classes_1.dex
